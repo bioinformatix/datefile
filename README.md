@@ -1,4 +1,5 @@
 # datefile
-# $ curl https://github.com/bioinformatix/datefile/blob/master/datedisplay.sh
+# $ git clone https://github.com/bioinformatix/datefile
+# $ cd datefile
 # $ chmod a+x datedisplay.sh
 # $ bash datedisplay.sh
