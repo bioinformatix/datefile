@@ -1,4 +1,4 @@
 #!/bin/bash
 
 date > file-with-date
-cat file-with-date
+cat -n file-with-date
