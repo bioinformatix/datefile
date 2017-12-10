@@ -3,3 +3,4 @@
 # $ cd datefile
 # $ chmod a+x datedisplay.sh
 # $ bash datedisplay.sh
+## Courtesy of Robbe Wunschiers
